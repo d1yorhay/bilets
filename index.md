@@ -62,7 +62,7 @@
 
 # Билет №3
 ## Вопрос №1
-![билет_3_вопрос_1](https://raw.githubusercontent.com/d1yorhay/bilets/main/bilets_edit/билет_3_вопрос_1.jpg "билет_3_вопрос_1")
+### C, B, A
 
 ## Вопрос №2
 ![билет_3_вопрос_2](https://raw.githubusercontent.com/d1yorhay/bilets/main/bilets_edit/билет_3_вопрос_2.jpg "билет_3_вопрос_2")
