@@ -1,5 +1,4 @@
 ---
-remote_theme: pages-themes/slate@v0.2.0
 title: Билеты
 permalink: /
 layout: defalt
